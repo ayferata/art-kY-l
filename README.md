@@ -1,4 +1,4 @@
-# art-kY-l
+# artikYil
 package com.example.Java101;
 import java.util.Scanner;
 public class ArtikYil {
